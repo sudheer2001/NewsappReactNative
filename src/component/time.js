@@ -1,7 +1,7 @@
 //import libraries
 import React, { Component } from 'react';
 import { Text } from 'native-base';
-import moment from 'moment';
+import moment from 'react-moment';
 
 // create a component
 class Time extends Component {
